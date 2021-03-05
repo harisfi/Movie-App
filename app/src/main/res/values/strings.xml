@@ -12,11 +12,12 @@
     <string name="duration">2h 15m</string>
     <string name="overview">Overview</string>
     <string name="overview_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
-    <string name="cast">Casts</string>
+    <string name="cast">Cast</string>
     <string name="view_all_cast">View All Cast</string>
     <string name="watch">Play Trailer</string>
     <string name="share">Share</string>
-    
+    <string name="_10">/ 10</string>
+
     <string-array name="data_movie_title">
         <item>Alita: Battle Angel</item>
         <item>Aquaman</item>
